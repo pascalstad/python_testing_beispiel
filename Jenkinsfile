@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Testing file') {
             steps {
-                echo "python3 -m pytest"
+                sh "python3 -m pytest"
             }
         }
         stage('Deliver') {
