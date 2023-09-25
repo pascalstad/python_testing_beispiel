@@ -1,0 +1,1 @@
+Selenium ermöglicht es schnell und einfach Webanwendungen zu testen. Es kann die Tests in einer Jenkins Pipeline automatisieren.
